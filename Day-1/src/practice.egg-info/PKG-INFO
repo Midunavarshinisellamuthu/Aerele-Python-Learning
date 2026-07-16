@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: practice
+Version: 1.0.0
+Summary: Practicing pyproject.toml 
+Requires-Python: >=3.10
+Requires-Dist: requests

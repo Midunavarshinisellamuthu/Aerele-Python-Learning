@@ -1,0 +1,8 @@
+[project]
+name = "practice"
+version = "1.0.0"
+description = "Practicing pyproject.toml "
+dependencies = [
+    "requests"
+]
+requires-python = ">=3.10"
